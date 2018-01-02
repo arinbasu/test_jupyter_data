@@ -1,4 +1,3 @@
-
 ## A Primer on how to conduct time series and survival analysis in public health using Jupyter Notebook
 
 In this module, we will learn how to conduct time series and survival analysis in R using a Jupyter notebook and publish our results through github or through other tools. In general, we will follow the same principles true for any kind of data analysis:
