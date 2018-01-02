@@ -1,5 +1,5 @@
 {
-structure.readme = "README.md"
-structure.summary = "SUMMARY.md"
+structure.readme: README.md
+structure.summary:SUMMARY.md
 
 }
